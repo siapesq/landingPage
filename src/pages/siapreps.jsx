@@ -156,7 +156,7 @@ export default function Index() {
                             <img src={logoFooter} alt="SIAPESQ Logo" className="logo" />
                         </div>
                     </div>
-                    <p>Copyright © 2024 SIAPESQ | Powered by SIAPESQ</p>
+                    <p>Copyright © 2024  SIAPESQ | Powered by SIAPESQ</p>
                 </div>
             </footer>
         </>
