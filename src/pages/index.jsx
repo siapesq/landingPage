@@ -7,6 +7,8 @@ import siaprepsMonitor from "../imgs/siaprepsMonitor.svg";
 import satelite from "../imgs/satelite.svg";
 import lupa from "../imgs/lupa.svg";
 import mapa from "../imgs/mapa.svg";
+// import logo from "../imgs/logo.svg";
+// import vetorSiapreps from "../imgs/vetorSiapreps.png";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/all";
 
@@ -116,6 +118,12 @@ export default function Index() {
                         Conheça nossos produtos
                     </h3>
                 </section>
+                {/* <section className="plataformaIndex">
+                    <div className="logosSiapesq">
+                        <img src={logo} alt="Logo da Siapesq"/>
+                        <img src={vetorSiapreps} alt="PNG contendo a palavra SIAPRESP personalizado"/>
+                    </div>
+                </section> */}
             </main>
         </>
     )
