@@ -85,11 +85,9 @@ export default function Index() {
                 </footer>
             </section>
 
+            <SectionHelps />
             <main>
-                <SectionHelps />
-            </main>
-            <main>
-            <SectionSiapreps />
+                <SectionSiapreps />
             </main>
             {/* <main>
             <SectionPhytobloom />
