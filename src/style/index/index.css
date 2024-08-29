@@ -2,7 +2,7 @@
     position: relative;
     display: flex;
     flex-direction: column;
-
+    height: 53rem;
 
     img {
         -webkit-user-drag: none;
@@ -16,12 +16,9 @@
     .bg_img {
         position: absolute;
         width: 100%;
-        height: 52rem;
+        height: 100%;
         z-index: -1;
 
-        @media only screen and (max-width:1600px) {
-            height: 46.8rem;
-        }
 
     }
 
@@ -140,6 +137,7 @@
         justify-content: center;
         gap: 6rem;
         background-color: aqua;
+        width: 100%;
 
         .helps_article {
             color: #233363;

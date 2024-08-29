@@ -3,11 +3,11 @@ import Card from "../../components/common/card";
 import satelite from "../../imgs/satelite.svg"
 import lupa from "../../imgs/lupa.svg";
 import mapa from "../../imgs/mapa.svg";
+
 export default function SectionHelps() {
 
 
     return (
-
         <section className="helps">
             <div className="helps_container">
                 <article className="helps_article">

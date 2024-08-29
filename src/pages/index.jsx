@@ -84,8 +84,9 @@ export default function Index() {
                     </article>
                 </footer>
             </section>
-
+            <main>
             <SectionHelps />
+            </main>
             <main>
                 <SectionSiapreps />
             </main>
